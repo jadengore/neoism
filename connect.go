@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/jmcvetta/napping"
+	"github.com/jadengore/napping"
 )
 
 // Connect setups parameters for the Neo4j server

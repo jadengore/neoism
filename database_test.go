@@ -35,7 +35,7 @@ import (
 	"testing"
 
 	"github.com/jadengore/assert"
-	"github.com/jmcvetta/randutil"
+	"github.com/jadengore/randutil"
 )
 
 func connectTest(t *testing.T) *Database {

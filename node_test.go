@@ -10,7 +10,7 @@ package neoism
 
 import (
 	"github.com/jadengore/assert"
-	"github.com/jmcvetta/randutil"
+	"github.com/jadengore/randutil"
 	"testing"
 )
 
