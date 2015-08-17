@@ -6,7 +6,7 @@ package neoism
 
 import (
 	"fmt"
-	"github.com/bmizerany/assert"
+	"github.com/jadengore/assert"
 	"strconv"
 	"testing"
 )

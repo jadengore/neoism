@@ -6,7 +6,7 @@ package neoism
 
 import (
 	"encoding/json"
-	"github.com/bmizerany/assert"
+	"github.com/jadengore/assert"
 	"strconv"
 	"testing"
 )

@@ -34,7 +34,7 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/bmizerany/assert"
+	"github.com/jadengore/assert"
 	"github.com/jmcvetta/randutil"
 )
 

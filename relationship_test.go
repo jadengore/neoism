@@ -5,7 +5,7 @@
 package neoism
 
 import (
-	"github.com/bmizerany/assert"
+	"github.com/jadengore/assert"
 	"sort"
 	"testing"
 )

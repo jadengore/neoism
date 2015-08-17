@@ -100,6 +100,6 @@ package neoism
 
 // Imports required for tests - so they work with "go get".
 import (
-	_ "github.com/bmizerany/assert"
+	_ "github.com/jadengore/assert"
 	_ "github.com/jmcvetta/randutil"
 )
